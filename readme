@@ -1,0 +1,34 @@
+# Task Management App
+
+## Overview
+
+This app helps manage daily tasks categorized by different sections and keeps track of ongoing projects.
+
+![Screenshot](assets/WhatsApp%20Image%202024-06-02%20at%208.39.41 PM.jpeg)
+
+## Features
+
+### Header
+
+- **Personalized Greeting:** Displays a custom greeting and the total number of tasks for the day.
+- **Profile Access:** Quick access to user profile settings.
+
+### Search and Filters
+
+- **Search Bar:** Easily search for specific tasks or categories.
+- **Filter Options:** Filter tasks to streamline task management.
+
+### Categories
+
+- **Food:** Manage all tasks related to food with visual cues.
+- **Marketing:** Keep track of marketing tasks, visually represented for easy identification.
+
+### Ongoing Tasks
+
+- **Current Projects:** View ongoing tasks like mobile app and web development at a glance.
+
+### Notifications
+
+- **Connectivity Alerts:** Receive notifications about connectivity issues to ensure all services are running smoothly.
+
+
